@@ -1,4 +1,4 @@
----
+i want tomdelete my account ---
 title: Deleting an organization account
 intro: 'When you delete an organization, all repositories, forks of private repositories, wikis, issues, pull requests, and Project or Organization Pages are deleted as well. {% if currentVersion == "free-pro-team@latest" %}The organization name becomes available for use on a new user or organization account, and your billing will end.{% endif %}'
 redirect_from:
